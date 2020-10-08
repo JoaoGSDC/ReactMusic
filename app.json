@@ -1,0 +1,12 @@
+{
+  "name": "ReactMusic",
+  "displayName": "ReactMusic",
+  "expo": {
+    "name": "ReactMusic",
+    "slug": "ReactMusic",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
